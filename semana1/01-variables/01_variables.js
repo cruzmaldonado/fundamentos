@@ -29,3 +29,5 @@ para el nombre de la variable que contiene varias palabras se suele usar camelCa
 /***********************/
 
 // Más Info: https://www.notion.so/academlo/Variables-fc11a03ee70042c39884b3ff5ce2a34f
+
+var valor = true

@@ -38,3 +38,4 @@ Sintaxis:
 // Una función puede devolver un valor al código de llamada como resultado. Con la directiva return.
 
 // Más Info: https://academlo.notion.site/Funciones-3cda1e8f48d046cea91b515aa87a858f
+console.log(hola)

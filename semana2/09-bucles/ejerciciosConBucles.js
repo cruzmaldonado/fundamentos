@@ -65,6 +65,8 @@ const usuarios = [
     genero: 'Mujer'
   }
 ]
+console.log(hola)
+
 
 // tu función aquí
 

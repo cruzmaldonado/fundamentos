@@ -6,12 +6,12 @@
 
 // Realice una coercion explicita
 
-console.log(2 + '2') //
-console.log(1 + 1 + '2') //
-console.log('2' + 1 + 1) //
-console.log(true + true) //
-console.log(true / null) //
-console.log('20' - true) //
+console.log(2 + '2') // implicita
+console.log(1 + 1 + '2') // implicita
+console.log('2' + 1 + 1) //implicita
+console.log(true + true)// implicita
+console.log(true / null) //implicita
+console.log('20' - true) //implicita
 console.log(true + '20') //
 console.log(25 + undefined) //
 console.log(null + true) //
