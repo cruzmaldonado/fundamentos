@@ -1,0 +1,45 @@
+.padre{
+    width:500px;
+    height:500px;
+    border:dashed;
+  }
+
+.hijos{
+    padding: 10px 10px 10px 10px; 
+    margin: 0   ;
+    display: inline-block;
+    background-color: blue;
+    color:white;
+    /* box-sizing:border-box; */
+    }
+.primero{
+
+    background-image:url("javascript.png");
+    width: 228px;
+    height: 208px;
+    border-top:10px solid grey;
+    border-bottom:10px solid grey;
+
+}
+.segundo {
+    width: 228px;
+    height: 208px;
+    background-color: red;
+    border-top:10px solid grey;
+    border-bottom:10px solid grey;
+
+}
+.tercero{
+    width: 208px;
+    height: 228px;
+    border-left :10px solid cyan;
+    border-right:10px solid cyan;
+    background-color: salmon;
+}
+.cuarto{
+    width: 208px;
+    height: 228px;
+    border-left:10px solid cyan;
+    border-right:10px solid cyan;
+    background-color: green;
+}
